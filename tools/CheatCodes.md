@@ -3,10 +3,10 @@ Launch the game with `-tod` to enable debug mode.
 Please note that these cheats are for debugging purposes and using them may affect your game experience.
 
 ## Zen Garden Mode:
-   - `'m'`: Adds a Marigold plant to the Zen Garden if it`s not full.
+   - `'m'`: Adds a Marigold to the Zen Garden if it`s not full.
    - `'+'`: Adds a random plant to the Zen Garden if it`s not full.
    - `'a'`: Adds a fully grown random plant to the Zen Garden if it`s not full.
-   - `'f'`: Waters, fertilizes, or sprays bugs on a plant in need.
+   - `'f'`: Waters, fertilizes, or bug sprays a plant in need.
    - `'r'`: Resets the timers of all plants.
    - `'s'`: Wakes up Stinky the snail or resets its timers.
    - `'c'`: Adds a chocolate to the player`s inventory.
@@ -25,20 +25,20 @@ Please note that these cheats are for debugging purposes and using them may affe
    - `'7'`: Toggles slow motion.
    - `'6'`: Toggles fast motion.
    - `'z'`: Cycles through debug text modes.
-## Boss Zombie Cheats:
-   - `'b'`: Triggers the boss`s bungee attack.
+## Zomboss Cheats:
+   - `'b'`: Triggers Zomboss`s bungee attack.
    - `'u'`: Summons zombies.
-   - `'s'`: Triggers the boss`s stomp attack.
-   - `'r'`: Triggers the boss`s RV attack.
-   - `'h'`: Triggers the boss`s head attack.
-   - `'d'`: Damages the boss.
+   - `'s'`: Triggers Zomboss`s stomp attack.
+   - `'r'`: Triggers Zomboss`s RV attack.
+   - `'h'`: Triggers Zomboss`s head attack.
+   - `'d'`: Damages Zomboss.
 
-## Challenge War and Peas:
-  - `w`: Add a Wallnut Head Zombie.
-  - `t`: Add a Tallnut Head Zombie.
-  - `j`: Add a Jalapeno Head Zombie.
-  - `g`: Add a Gatling Head Zombie.
-  - `s`: Add a Squash Head Zombie.
+## Zombotany:
+  - `w`: Add a Wall-nut Zombie.
+  - `t`: Add a Tall-nut Zombie.
+  - `j`: Add a Jalapeno Zombie.
+  - `g`: Add a Gatling Pea Zombie.
+  - `s`: Add a Squash Zombie.
 ## Survival Endless:
   - `q`: Enable easy planting cheat and add various plants based on conditions.
 ## IZombie Level:
@@ -57,26 +57,26 @@ Please note that these cheats are for debugging purposes and using them may affe
 - `w`: Add a Newspaper Zombie.
 - `F`: Add a Balloon Zombie.
 - `n`: If the stage has a pool, add a Snorkel Zombie.
-- `c`: Add a Traffic Cone Zombie.
+- `c`: Add a Conehead Zombie.
 - `m`: Add a Dancer Zombie.
-- `h`: Add a Pail Zombie.
+- `h`: Add a Buckethead Zombie.
 - `D`: Add a Digger Zombie.
-- `p`: Add a Polevaulter Zombie.
+- `p`: Add a Pole Vaulter Zombie.
 - `P`: Add a Pogo Zombie.
 - `R`: If the stage has a pool, add a Dolphin Rider Zombie.
-- `j`: Add a Jack in the Box Zombie.
-- `g`: Add a Gargantuar Zombie.
-- `G`: Add a Redeye Gargantuar Zombie.
-- `i`: Add a Zamboni Zombie.
+- `j`: Add a Jack-in-the-Box Zombie.
+- `g`: Add a Gargantuar.
+- `G`: Add a Giga-Gargantuar.
+- `i`: Add a Zomboni.
 - `C`: Add a Catapult Zombie.
-- `1`: Kill the top plant at (0,0) and trigger the ZombieAtePlant event.
+- `1`: Kill the top plant at (0,0) and trigger the `ZombieAtePlant` event.
 - `B`: Set the fog blown countdown to 2200.
-- `t`: If BobSled cannot be added, set the ice timer and minimum X position for a random row. Then, add a BobSled Zombie.
+- `t`: If Bobsled cannot be added, set the ice timer and minimum X position for a random row. Then, add a Bobsled Zombie.
 - `r`: Spawn zombies from graves.
-- `0`: Add 100 sun money.
-- `9`: Add 999999 sun money.
+- `0`: Add 100 sun.
+- `9`: Add 999999 sun.
 - `$`: Add 100 coins.
-- `-`: Subtract 100 sun money. If the sun money becomes negative, set it to 0.
+- `-`: Subtract 100 sun. If sun becomes negative, set it to 0.
 - `%`: Switch the screen mode.
 - `M`: Adjust the music burst override.
 - `Ctrl+End` : Crash the game and set the countdown for the next wave or zombie to 1.
